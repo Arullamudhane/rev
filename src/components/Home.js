@@ -18,6 +18,7 @@ export default function Home() {
             <p>While I would like to share my call history and chat history, I believe it's not the most professional approach. I simply want to express my disappointment and urge the service provider not to treat customers this way. I have incurred a notable financial loss due to this connection issue.</p>
 
             <p><b>NOTE: I understand issue happens anytime, that's why i haven't troubled you and waited for last 3 months, but you are continously giving false hope and not at all taking any steps. Atleast a simple phone call should help the customer. </b> </p>
+        <p>Please don't give lame excuses and avoid the customer need, Please improve and give good service</p>
 
         </div>
         <div className='img'>
